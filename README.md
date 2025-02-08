@@ -73,8 +73,6 @@ Once running, say **"Jarvis"** followed by your command, such as:
 - "Jarvis, tell me a joke"
 - "Jarvis, solve 2+2"
 
-## Demo 🎢
-[![Jarvis AI Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## Contributing 🤝
 Contributions are welcome! Follow these steps:
