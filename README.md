@@ -57,9 +57,6 @@ python jarvis.py
 - Give voice commands like "Open Google", "What is the weather?", "Tell me a joke".
 - Customize functionalities by modifying the script.
 
-## vedio 📸
-
-![Jarvis Preview](https://youtu.be/W0mh-A3we5Y?si=DG1Skza3lknEF3C7)
 
 ## Contributing 🤝
 
