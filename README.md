@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/Sharmadhriti007/jarvis-personal-ai-virtual-assistance.git
+git clone https://github.com/ Ashwin Sharma-git/jarvis-personal-ai-virtual-assistance.git
 cd jarvis-personal-ai-virtual-assistance
 ```
 
